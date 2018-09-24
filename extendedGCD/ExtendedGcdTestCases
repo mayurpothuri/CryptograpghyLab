@@ -1,0 +1,42 @@
+1. Test Case :-
+
+./a.out 15 35
+
+GCD = 5
+X = -2
+Y = 1
+
+2. Test Case :-
+
+./a.out 35 15
+
+GCD = 5
+X = 1
+Y = -2
+
+3. Test Case :-
+
+./a.out 0.5 1
+
+GCD = 1
+X = 0
+Y = 1
+
+
+4. Test Case :-
+
+./a.out 351548 1234
+
+GCD = 2
+X = 252
+Y = -71791
+
+
+5. Test Case :-
+
+./a.out 45456212157 14726849
+
+GCD = 1
+X = 365436
+Y = -1127962699
+
