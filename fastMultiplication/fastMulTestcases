@@ -1,0 +1,20 @@
+TESTCASE 1 :-
+./a.out 10100000 10100000
+(fx * gx)%mx = 10001000
+
+TESTCASE 2 :-
+./a.out 10110000 10100000
+(fx * gx)%mx = 10011100
+
+TESTCASE 3 :-
+./a.out 10110000 10110000
+(fx * gx)%mx = 10001010
+
+TESTCASE 4 :-
+./a.out 10110000 10110000
+(fx * gx)%mx = 10001010
+
+TESTCASE 5 :-
+./a.out 10011000 10011000
+(fx * gx)%mx = 11101110
+
