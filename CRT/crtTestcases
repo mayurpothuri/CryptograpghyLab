@@ -1,0 +1,16 @@
+TESTCASE 1 :-
+./a.out 2 3 3 5 2 7
+X = 23
+
+
+TESTCASE 2 :-
+./a.out 3 5 4 7
+X = 18
+
+TESTCASE 3 :-
+./a.out 2 5 3 7
+X = 17
+
+TESTCASE 4 :-
+./a.out 5 5 7 7 
+X = 0
